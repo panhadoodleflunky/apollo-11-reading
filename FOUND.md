@@ -10,3 +10,8 @@
 - TRASHY LITTLE SUBROUTINES: Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc, line 1375
 - COME AGAIN SOON: Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc, line 925
 - CONSULTING POOH PEOPLE: Luminary099/FRESH_START_AND_RESTART.agc, line 353
+
+## Bonus
+
+- Arcade-named file: Luminary099/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc. Not a game. It is the keyboard and display (DSKY) program: verb/noun entry, buttons and lights.
+- Alarm 1202 ("NO CORE SETS AVAILABLE"): raised in Luminary099/EXECUTIVE.agc, lines 207-208 (TC BAILOUT1, then OCT 1202). BAILOUT1 is in ALARM_AND_ABORT.agc:189 and ends in a software restart (ENEMA, FRESH_START_AND_RESTART.agc:281).
